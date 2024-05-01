@@ -1,6 +1,6 @@
 # nomad-lec1-2
 
-노마드코더 - [바닐라 JS로 크롬 앱 만들기](https://nomadcoders.co/javascript-for-beginners/lobby) 강의 수강
+노마드코더 - [바닐라 JS로 크롬 앱 만들기](https://nomadcoders.co/javascript-for-beginners) 강의 수강
 
 매주 **월요일**마다 대면스터디 (1주차는 수요일, 2주차는 비대면으로 대체)
 
